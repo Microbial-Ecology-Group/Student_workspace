@@ -10,5 +10,5 @@ Quick update
 
 ## Week of 5/15 - 5/19
 Quick Update
-* Start working on training material for the chime software for the VERO group.
+* Start working on training material for the qiime for the VERO group.
 * Continue working on the tutorial for how to use R in parallel computing. 
