@@ -11,4 +11,16 @@ Quick update
 ## Week of 5/15 - 5/19
 Quick Update
 * Start working on training material for the qiime for the VERO group.
-* Continue working on the tutorial for how to use R in parallel computing. 
+* Continue working on the tutorial for how to use R in parallel computing.
+
+## Week of 5/22 - 5/26
+Quick Update
+* Working on DADA2 pipeline tutorial for the VERO group.
+* Troubleshooted the metaSNV script to solve errors and updated the script in the repository.
+* Worked on the tutorial for how to use R in parallel computing using libraries such as parallel and apply function.
+
+## Week of 5/29 - 6/2
+Quick Update
+* Continue working on DADA2 pipeline tutorial for the VERO group.
+* Continue working on the tutorial for how to use R in parallel computing using libraries such as parallel and apply function.
+* Start working on tutorial for using R for GPU/Accelerators.
